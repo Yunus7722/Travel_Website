@@ -11,8 +11,8 @@ export default function Home() {
             <Navbar />
            <Hero
            cName='hero'
-           video = {true}
-           image={false}
+           video = {false}
+           image={true}
            imageUrl='https://images.unsplash.com/photo-1586016413664-864c0dd76f53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
            title='Lost in the Dream World'
            heroText='heroText'

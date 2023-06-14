@@ -32,15 +32,25 @@ npm start
 ## Screenshots 
 
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/1db63215-b5d6-43eb-a872-69c3a7b5356f)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/fd8e6ee0-0ecc-47ae-b2de-a5293099e8c8)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/23a1a2c0-a296-4975-8216-48947cf22c58)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/2c952386-bdca-40d6-b3af-c5019f5cd060)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/2bb9847f-3724-419a-bb36-6e7cd8276048)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/07f98430-59d6-4e1b-9073-0ad5b4e3eed2)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/36ed1d5e-29d5-498e-8875-031b2573e9e6)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/7b24bbc1-bfc5-4a35-9e79-678311f00d32)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/5480e77a-ea40-41fd-8152-04f5f0da36be)
+
 ![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/f8539f05-c666-4e05-9bfa-9c8fae06c46d)
+
 
 
 ## Contributing

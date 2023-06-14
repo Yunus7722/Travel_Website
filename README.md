@@ -1,3 +1,62 @@
+# Travel Website
+
+## Description
+This is a responsive travel website built using React.js. It showcases various travel destinations, services offered, and provides a contact form for users to get in touch. The website is designed to be mobile-friendly and includes visually appealing animations. The responsiveness is achieved using custom media queries, and no external library is used for HTTP requests (such as Axios).
+
+## Features
+- Home: A scrolling landing page that introduces the website and highlights key features.
+- Destinations: Explore a wide range of travel destinations with detailed descriptions, images, and user reviews.
+- Services: Discover the services offered, such as guided tours, accommodation options, and transportation arrangements.
+- Contact: A contact form for users to submit inquiries or requests. The form captures user information and sends it to the website administrators.
+
+## Technologies Used
+- React.js: JavaScript library for building user interfaces.
+- React Router: Handles routing and navigation within the website.
+- Other libraries or tools you used.
+
+## Installation
+1. Clone the repository: https://github.com/Yunus7722/Travel_Website.git
+
+
+2. Install the dependencies:
+cd https://github.com/Yunus7722/Travel_Website.git
+npm install
+
+3. Start the development server:
+npm start
+
+
+
+4. Open your web browser and visit http://localhost:3000 to see the website in action.
+
+## Screenshots 
+
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/1db63215-b5d6-43eb-a872-69c3a7b5356f)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/fd8e6ee0-0ecc-47ae-b2de-a5293099e8c8)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/23a1a2c0-a296-4975-8216-48947cf22c58)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/2c952386-bdca-40d6-b3af-c5019f5cd060)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/2bb9847f-3724-419a-bb36-6e7cd8276048)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/07f98430-59d6-4e1b-9073-0ad5b4e3eed2)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/36ed1d5e-29d5-498e-8875-031b2573e9e6)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/7b24bbc1-bfc5-4a35-9e79-678311f00d32)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/5480e77a-ea40-41fd-8152-04f5f0da36be)
+![image](https://github.com/Yunus7722/Travel_Website/assets/118299570/f8539f05-c666-4e05-9bfa-9c8fae06c46d)
+
+
+## Contributing
+If you'd like to contribute to this project, please follow the guidelines.
+
+## Contact
+If you have any questions or suggestions, feel free to reach out to us at Yunus73.work@gmail.com.
+
+We hope you enjoy using our travel website!
+
+
+
+
+# More Info
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
